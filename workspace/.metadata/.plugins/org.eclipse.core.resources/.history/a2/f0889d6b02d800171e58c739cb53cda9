@@ -1,0 +1,14 @@
+var x; var y;
+{
+int i;
+  x = 15;
+  if (x)
+    y = x;
+  else
+    y = 128;
+    while(i){
+    i=1;
+    y=30;
+    }
+  answer = y - 1;
+}

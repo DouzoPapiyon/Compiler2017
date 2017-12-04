@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;dec.s&apos; to &apos;dec.s&apos;&#x0A;- 元のプロジェクト: &apos;TinyPiS&apos;&#x0A;- 宛先要素: &apos;dec.s&apos;&#x0A;- オリジナル要素: &apos;dec.s&apos;" description="ファイルをコピー" element1="sample/dec.s" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1512380601714" target="/TinyPiS/sample/dec.s" units="0" version="1.0"/>
+</session>

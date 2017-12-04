@@ -1,0 +1,10 @@
+var x; var y; var i;
+{
+	y = 15;
+
+    while(i){
+    	i=1;
+    	y=y + 10;
+    }
+  answer = y - 1;
+}
