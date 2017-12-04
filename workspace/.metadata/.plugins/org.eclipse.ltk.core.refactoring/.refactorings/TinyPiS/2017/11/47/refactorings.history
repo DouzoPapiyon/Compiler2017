@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="メソッド名 &apos;ASTGenerator.translateExpr(...)&apos; を &apos;translate&apos; に変更します&#x0A;- 元のプロジェクト: &apos;TinyPiS&apos;&#x0A;- オリジナル要素: &apos;ASTGenerator.translateExpr(...)&apos;&#x0A;- 名前変更済み要素: &apos;ASTGenerator.translate(...)&apos;&#x0A;- リファクタリングされた要素の参照を更新" delegate="false" deprecate="false" description="メソッド名 &apos;translateExpr&apos; を変更します" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;{ASTGenerator.java[ASTGenerator~translateExpr~QParseTree;" name="translate" references="true" stamp="1511144920644" version="1.0"/>
-</session>
